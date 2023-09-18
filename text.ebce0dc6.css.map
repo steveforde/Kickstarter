@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/text.scss"],"names":[],"mappings":"AAAA,iFAGE,0CAA4C","file":"text.ebce0dc6.css","sourceRoot":"../src","sourcesContent":["input:-webkit-autofill,\ninput:-webkit-autofill:hover,\ninput:-webkit-autofill:focus {\n  -webkit-box-shadow: 0 0 0 1000px white inset;\n}\n"]}
